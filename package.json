@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce_nodejs",
+  "version": "1.0.0",
+  "description": "Pacotes utilizados no ecommerce",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myze16/ecommerce_nodejs.git"
+  },
+  "author": "Mizael Pardal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Myze16/ecommerce_nodejs/issues"
+  },
+  "homepage": "https://github.com/Myze16/ecommerce_nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
